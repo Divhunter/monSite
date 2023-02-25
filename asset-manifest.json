@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/monSite/static/css/main.2dc228c6.css",
-    "main.js": "/monSite/static/js/main.458bc0e9.js",
+    "main.css": "/monSite/static/css/main.4c8d509a.css",
+    "main.js": "/monSite/static/js/main.245dc4aa.js",
     "static/media/toulouse.jpg": "/monSite/static/media/toulouse.32af49cfbeb101db4ff4.jpg",
     "static/media/letsTalk.png": "/monSite/static/media/letsTalk.7ea80bf46370c3562f68.png",
     "static/media/tree.jpg": "/monSite/static/media/tree.5542d8cd28e1f1df9758.jpg",
     "static/media/keyboard.jpg": "/monSite/static/media/keyboard.35bcde950b780ca8d310.jpg",
+    "static/media/el-toros.jpg": "/monSite/static/media/el-toros.22b9c90a8d9a81388b17.jpg",
     "static/media/me.jpg": "/monSite/static/media/me.faecf5399d8ca55e9410.jpg",
     "static/media/desktop.png": "/monSite/static/media/desktop.5c2ec4863a8db73e65ba.png",
     "static/media/montain.jpg": "/monSite/static/media/montain.4a0a3c72e6df7a799beb.jpg",
@@ -19,11 +20,11 @@
     "static/media/pen.png": "/monSite/static/media/pen.71e76d40613b3fa0b23d.png",
     "static/media/hands.png": "/monSite/static/media/hands.5fbcae6210a97abc349b.png",
     "index.html": "/monSite/index.html",
-    "main.2dc228c6.css.map": "/monSite/static/css/main.2dc228c6.css.map",
-    "main.458bc0e9.js.map": "/monSite/static/js/main.458bc0e9.js.map"
+    "main.4c8d509a.css.map": "/monSite/static/css/main.4c8d509a.css.map",
+    "main.245dc4aa.js.map": "/monSite/static/js/main.245dc4aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dc228c6.css",
-    "static/js/main.458bc0e9.js"
+    "static/css/main.4c8d509a.css",
+    "static/js/main.245dc4aa.js"
   ]
 }
