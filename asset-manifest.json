@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/monSite/static/css/main.192ba343.css",
-    "main.js": "/monSite/static/js/main.722cbc6a.js",
+    "main.css": "/monSite/static/css/main.aae73cf9.css",
+    "main.js": "/monSite/static/js/main.7ba43ff2.js",
     "static/media/toulouse.jpg": "/monSite/static/media/toulouse.32af49cfbeb101db4ff4.jpg",
     "static/media/letsTalk.png": "/monSite/static/media/letsTalk.7ea80bf46370c3562f68.png",
     "static/media/tree.jpg": "/monSite/static/media/tree.5542d8cd28e1f1df9758.jpg",
+    "static/media/footer-people.png": "/monSite/static/media/footer-people.fc059a09f115f544262c.png",
     "static/media/logo-vowd.png": "/monSite/static/media/logo-vowd.ed5c6314516741dfcf72.png",
     "static/media/trees.png": "/monSite/static/media/trees.a4191e63d5b2cf718d8a.png",
     "static/media/me.jpg": "/monSite/static/media/me.cc2aa3b0f05fbf1fd230.jpg",
@@ -24,11 +25,11 @@
     "static/media/pen.png": "/monSite/static/media/pen.71e76d40613b3fa0b23d.png",
     "static/media/hands.png": "/monSite/static/media/hands.5fbcae6210a97abc349b.png",
     "index.html": "/monSite/index.html",
-    "main.192ba343.css.map": "/monSite/static/css/main.192ba343.css.map",
-    "main.722cbc6a.js.map": "/monSite/static/js/main.722cbc6a.js.map"
+    "main.aae73cf9.css.map": "/monSite/static/css/main.aae73cf9.css.map",
+    "main.7ba43ff2.js.map": "/monSite/static/js/main.7ba43ff2.js.map"
   },
   "entrypoints": [
-    "static/css/main.192ba343.css",
-    "static/js/main.722cbc6a.js"
+    "static/css/main.aae73cf9.css",
+    "static/js/main.7ba43ff2.js"
   ]
 }
