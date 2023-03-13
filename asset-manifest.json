@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/monSite/static/css/main.8e01cb88.css",
-    "main.js": "/monSite/static/js/main.3eb3df47.js",
-    "static/media/logo-vowd-error.png": "/monSite/static/media/logo-vowd-error.01c956a1df5fd63d2c10.png",
+    "main.css": "/monSite/static/css/main.e7c3b056.css",
+    "main.js": "/monSite/static/js/main.df2c2c7f.js",
     "static/media/toulouse.jpg": "/monSite/static/media/toulouse.32af49cfbeb101db4ff4.jpg",
     "static/media/letsTalk.png": "/monSite/static/media/letsTalk.7ea80bf46370c3562f68.png",
     "static/media/tree.jpg": "/monSite/static/media/tree.5542d8cd28e1f1df9758.jpg",
@@ -16,6 +15,7 @@
     "static/media/contact.jpg": "/monSite/static/media/contact.60e7e7401f066db8052e.jpg",
     "static/media/el-taros.jpg": "/monSite/static/media/el-taros.67810eda18146197d6e9.jpg",
     "static/media/me2.jpg": "/monSite/static/media/me2.4e6316a634ccc0e2dba7.jpg",
+    "static/media/logo-vowd-error.png": "/monSite/static/media/logo-vowd-error.882ab8066887293879bc.png",
     "static/media/footer-people-m1.png": "/monSite/static/media/footer-people-m1.fc1c60edd1af87287a11.png",
     "static/media/about.jpg": "/monSite/static/media/about.980539099017148b674b.jpg",
     "static/media/double-arrow-down.png": "/monSite/static/media/double-arrow-down.f5f6b91ee54917c72aed.png",
@@ -25,11 +25,11 @@
     "static/media/pen.png": "/monSite/static/media/pen.71e76d40613b3fa0b23d.png",
     "static/media/hands.png": "/monSite/static/media/hands.5fbcae6210a97abc349b.png",
     "index.html": "/monSite/index.html",
-    "main.8e01cb88.css.map": "/monSite/static/css/main.8e01cb88.css.map",
-    "main.3eb3df47.js.map": "/monSite/static/js/main.3eb3df47.js.map"
+    "main.e7c3b056.css.map": "/monSite/static/css/main.e7c3b056.css.map",
+    "main.df2c2c7f.js.map": "/monSite/static/js/main.df2c2c7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e01cb88.css",
-    "static/js/main.3eb3df47.js"
+    "static/css/main.e7c3b056.css",
+    "static/js/main.df2c2c7f.js"
   ]
 }
